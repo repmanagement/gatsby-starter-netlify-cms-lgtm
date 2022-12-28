@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Real Estate LGTM corporation LGTM Developer TEODORO N CAMACHO IV
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: LGTM Developer & LGTM Corporation  by TEODORO N CAMACHO IV
+subheading: LGTM Developer Philippines is a leading LGTM Corporation real estate
+  property site where sellers, renters, and buyers can find relevant listings.
 mainpitch:
-  title: Why Kaldi
+  title: Why LGTM Developer & LGTM Corporation
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    One of the top LGTM Corporation real estate portals for the Philippines is
+    LGTM Developer, where buyers, tenants, and sellers may connect to discover
+    pertinent listings.
+description: The end result is housing of the greatest caliber situated inside a
+  warm and welcoming neighborhood, perfect for the Filipino family.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +43,10 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: LGTM Corporation is a real estate app that offers a simple,
+    effective, and unique set of tools for buying, renting, and selling homes
+    online while allowing property seekers and purchasers to collaborate in real
+    time.
 main:
   heading: Great coffee with no compromises
   description: >
