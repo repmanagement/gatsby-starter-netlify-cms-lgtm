@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "LGTM Corporation -  TEODORO N CAMACHO IV - LGTM Developer",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "The ultimate product is housing of the highest grade, well suited for the Filipino family LGTM corporation by TEODORO N CAMACHO IV, and located inside a friendly and welcoming neighborhood.",
+    google-site-verification: "iGfIkVD7N7n93-PaWs0bRn6F_iR7Lbf7Xfrkz7mTmEo",  
   },
   plugins: [
     "gatsby-plugin-react-helmet",
