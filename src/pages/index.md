@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Real Estate LGTM corporation LGTM Developer TEODORO N CAMACHO IV
-image: /img/home-jumbotron.jpg
+image: https://images.unsplash.com/photo-1460472178825-e5240623afd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80
 heading: LGTM Developer & LGTM Corporation  by TEODORO N CAMACHO IV
 subheading: LGTM Developer Philippines is a leading LGTM Corporation real estate
   property site where sellers, renters, and buyers can find relevant listings.
