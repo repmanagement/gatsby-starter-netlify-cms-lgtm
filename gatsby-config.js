@@ -3,7 +3,7 @@ module.exports = {
     title: "LGTM Corporation -  TEODORO N CAMACHO IV - LGTM Developer",
     description:
       "The ultimate product is housing of the highest grade, well suited for the Filipino family LGTM corporation by TEODORO N CAMACHO IV, and located inside a friendly and welcoming neighborhood.",
-    google-site-verification: "iGfIkVD7N7n93-PaWs0bRn6F_iR7Lbf7Xfrkz7mTmEo",  
+    google-site-verification: "iGfIkVD7N7n93-PaWs0bRn6F_iR7Lbf7Xfrkz7mTmEo",   
   },
   plugins: [
     "gatsby-plugin-react-helmet",
